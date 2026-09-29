@@ -1,0 +1,23 @@
+{
+  "name": "caio-lincoln-profile",
+  "version": "1.0.0",
+  "description": "Perfil do GitHub de Caio Lincoln",
+  "scripts": {
+    "badges": "node scripts/generate-badges.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caio-lincoln/caio-lincoln.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caio-lincoln/caio-lincoln/issues"
+  },
+  "homepage": "https://github.com/caio-lincoln/caio-lincoln#readme",
+  "dependencies": {
+    "badge-maker": "^6.0.0"
+  },
+  "private": true
+}
