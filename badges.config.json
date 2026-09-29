@@ -1,0 +1,15 @@
+{
+  "style": "for-the-badge",
+  "labelColor": "0d1117",
+  "groups": {
+    "focus": [
+      { "label": "ROLE", "message": "Full Stack Developer", "color": "58a6ff" },
+      { "label": "FOCO", "message": "IA · LLMs · Visão Computacional", "color": "a371f7" },
+      { "label": "STATUS", "message": "Aberto a projetos", "color": "3fb950" }
+    ],
+    "cert": [
+      { "label": "CYBERSECURITY", "message": "Google · Coursera", "color": "58a6ff" },
+      { "label": "ITIL", "message": "Foundations", "color": "d29922" }
+    ]
+  }
+}
