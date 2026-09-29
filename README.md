@@ -21,6 +21,7 @@ Entrego aplicações web modernas, sites em CMS e soluções que integram IA aos
 - 🗄️ Modelagem e administração de bancos SQL e serverless
 - 🤖 Integração de LLMs, modelos de ML e visão computacional
 - 🔐 Certificado em Cybersecurity (Google) e ITIL Foundations
+- 🚀 Sempre aberto a novos projetos e colaborações
 
 ## Stack
 
